@@ -13,10 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("Hello World!")
-        //k
-        
-        //why does it keep denying but working????
-        //xcode sucks
+        //sdfsdf
+
     }
     
     //For now this project will be used as a test project on Github
