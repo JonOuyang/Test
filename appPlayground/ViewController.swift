@@ -12,8 +12,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        print("Hello World!")
+        
     }
 
+    //For now this project will be used as a test project on Github
+    //Probably will have to make this project private later on (on Github)
 
 }
 
