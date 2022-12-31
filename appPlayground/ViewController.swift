@@ -15,7 +15,8 @@ class ViewController: UIViewController {
         print("Hello World!")
         //k
         
-        //fdsfasdfadsf
+        //why does it keep denying but working????
+        //xcode sucks
     }
     
     //For now this project will be used as a test project on Github
