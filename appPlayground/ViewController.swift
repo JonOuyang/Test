@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         print("Hello World!")
         //k
         
-        //sdfansdkjfn
+        //
     }
     
     //For now this project will be used as a test project on Github
